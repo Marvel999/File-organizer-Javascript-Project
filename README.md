@@ -5,6 +5,17 @@ This small file organizer javascript Project which oragnize you file according t
 Demo video link:-
 https://drive.google.com/file/d/1gElN8U05pUwFfuvYxMb6a4BeLq0OQ4cf/view?usp=sharing
 
+# How to use this in my system
+1. Clone Repo in your local system.
+     git clone https://github.com/Marvel999/File-organizer-Javascript-Project.git
+3. Install node, vscode in your system.
+4. open cmd in clone file and open clone file in vscode by
+             code .(in cmd)
+6. Run script
+       node .\activity.js 'Path of files'
+       Enter
+     
+
 
 ## License
 ```xml
