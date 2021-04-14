@@ -1,6 +1,6 @@
 # File organizer Javascript Project
 
-This small file organizer javascript Project which oragnize you file according to your File Type like image in image and document in document folder.
+This file organizer small javascript Project which oragnize you file according to your File Type like image in Image and document in document folder.
 
 Demo video link:-
 https://drive.google.com/file/d/1gElN8U05pUwFfuvYxMb6a4BeLq0OQ4cf/view?usp=sharing
